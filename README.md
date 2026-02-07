@@ -7,8 +7,8 @@ On Linux or macOS, start a new terminal.
 
 ## Dowload the requirements file
 
-- `curl `
-- Or dowload from this link:
+- Do `wget https://github.com/JUAS-tutorials/impedance-installation/raw/refs/heads/main/requirements.txt` in the terminal
+- Or dowload from this link: https://github.com/JUAS-tutorials/impedance-installation/raw/refs/heads/main/requirements.txt
 - Browse to where the file was downloaded
     - Usually `cd ~/Downloads`
 
