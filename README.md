@@ -14,8 +14,11 @@ On Linux or macOS, start a new terminal.
 
 ## Create the environment
 
-- `conda create --name juas-impedance python==3.10` create a new python 3.10 environment
+- `conda create --name juas-impedance python==3.11` create a new python 3.11 environment
 - `conda activate juas-impedance` activate this new environment
+  
+FOR WINDOWS USERS ONLY: `conda install -c conda-forge compilers gcc`
+
 - `pip install -r requirements.txt` install all the packages needed with a specific version
 
 ## Start jupyter lab
